@@ -1,0 +1,6 @@
+module Proxy
+
+  PROXY_MOSCOW = "77.243.10.210:3128"
+  PROXY_OMSK = "77.87.86.10:3128"
+
+end

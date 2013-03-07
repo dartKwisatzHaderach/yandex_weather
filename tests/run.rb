@@ -1,0 +1,1 @@
+system ('ruby check_city.rb')
